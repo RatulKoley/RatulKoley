@@ -25,7 +25,7 @@
 
 
 # 📊 GitHub Stats:
-<img align="left" alt="Coding" width="400" src="https://i.pinimg.com/originals/98/42/28/984228ab0a3a15bf48642b7fb2b524b2.gif"></br>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/98/42/28/984228ab0a3a15bf48642b7fb2b524b2.gif"></br>
 ![](https://github-readme-stats.vercel.app/api?username=RatulKoley&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RatulKoley&theme=react&hide_border=false)
 
