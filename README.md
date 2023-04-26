@@ -7,8 +7,8 @@
 
 - 🔭 Currently Developing <b>Websites</b> 
 - 🌱 Learning <b>Front End Development</b>
-- 👯 Looking for work as <b>Full Time Web-Dev</b> 
-- 💬 Ask about <b>MVC, Web API</b> Projects
+- 👯 Working as <b>API Web-Dev</b> 
+- 💬 Ask about <b>.NET, Web API, SQL</b> Projects
 - 📫 How to reach: Mail <b>@ratuljob657</b>
 - 😄 Pronouns: He/<b>Coder</b>
 - ⚡ Fun fact: Also working on <b>FIVEM</b> Development</br>
